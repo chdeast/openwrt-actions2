@@ -5,11 +5,14 @@ luci-app-firewall
 luci-app-mosdns
 luci-app-opkg
 luci-app-passwall
+luci-app-poweroff
 luci-app-pushbot
 luci-app-rebootschedule
+luci-app-samba4
 luci-app-smartdns
 luci-app-ssr-plus
 luci-app-ttyd
+luci-app-uhttpd
 luci-app-wechatpush
 luci-app-wolplus
 luci-theme-argon
